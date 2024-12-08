@@ -394,12 +394,12 @@ header .menu.active{
 }
 
 .carousel .carousel-item{
-    width: 250px;
+    width: 205px;
     cursor: pointer;
 }
 
 .carousel .carousel-item img{
-    border-radius: 10px;
+    border-radius: 5px;
     object-fit: cover;
     object-position: center;
 
