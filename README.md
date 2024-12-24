@@ -1,1 +1,1 @@
-Click here to see the live project: [Project Link](https://patelkrishas.github.io/Animated-Car-Landing-Page/)
+Click here to view the animated car landing page: [Project Link](https://patelkrishas.github.io/Animated-Car-Landing-Page/)
